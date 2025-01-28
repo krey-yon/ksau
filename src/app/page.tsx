@@ -1,5 +1,6 @@
 import Navbar from "@/component/Navbar";
 import PageOne from "@/page/PageOne";
+import PageTwo from "@/page/PageTwo";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <div className="relative z-10">
         <PageOne />
         <Navbar />
+        <PageTwo />
       </div>
     </div>
   );
