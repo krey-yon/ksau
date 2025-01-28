@@ -5,7 +5,7 @@ import { GoPeople } from "react-icons/go";
 
 function PageTwo() {
   return (
-    <section className="bg-black text-gray-400">
+    <section className="bg-black text-gray-400 mb-8">
       <div className="text-center mb-12 mt-8">
         <h1 className="text-white font-bold text-3xl md:text-4xl mb-4">
           About ksau

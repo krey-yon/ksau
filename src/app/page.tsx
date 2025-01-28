@@ -1,5 +1,6 @@
 import Navbar from "@/component/Navbar";
 import PageOne from "@/page/PageOne";
+import PageThree from "@/page/PageThree";
 import PageTwo from "@/page/PageTwo";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
         <PageOne />
         <Navbar />
         <PageTwo />
+        <PageThree />
       </div>
     </div>
   );
