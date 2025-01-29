@@ -1,4 +1,5 @@
 import Navbar from "@/component/Navbar";
+import DownloadPage from "@/page/DownloadPage";
 import PageOne from "@/page/PageOne";
 import PageThree from "@/page/PageThree";
 import PageTwo from "@/page/PageTwo";
@@ -14,6 +15,7 @@ export default function Home() {
         <PageTwo />
         <PageThree />
         <TestimonialPage />
+        <DownloadPage />
       </div>
     </div>
   );

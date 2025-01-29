@@ -14,9 +14,9 @@ function TestimonialPage() {
           to say about their <br /> experience.
         </p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8  mx-auto mb-12">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-4  mx-auto mb-12">
         <div className="bg-black p-6 rounded-lg border border-green-500/30 shadow-xl relative overflow-hidden transition-all duration-300 ease-out hover:translate-y-[-2px] hover:shadow-2xl hover:border-green-500/50">
-          <div className="flex gap-2 items-center mb-4">
+          <div className="flex gap-2 items-center mb-4 ">
             <Image
               src="/image/photo-1599566150163-29194dcaad36.avif"
               alt="Portrait"
