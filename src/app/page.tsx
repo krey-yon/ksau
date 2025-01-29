@@ -1,3 +1,4 @@
+import Footer from "@/component/Footer";
 import Navbar from "@/component/Navbar";
 import DownloadPage from "@/page/DownloadPage";
 import PageOne from "@/page/PageOne";
@@ -16,6 +17,7 @@ export default function Home() {
         <PageThree />
         <TestimonialPage />
         <DownloadPage />
+        <Footer />
       </div>
     </div>
   );
