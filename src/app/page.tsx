@@ -2,6 +2,7 @@ import Navbar from "@/component/Navbar";
 import PageOne from "@/page/PageOne";
 import PageThree from "@/page/PageThree";
 import PageTwo from "@/page/PageTwo";
+import TestimonialPage from "@/page/TestimonialPage";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <Navbar />
         <PageTwo />
         <PageThree />
+        <TestimonialPage />
       </div>
     </div>
   );

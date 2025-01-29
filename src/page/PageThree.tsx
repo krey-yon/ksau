@@ -15,7 +15,7 @@ function PageThree() {
         </p>
       </div>
       <div className="grid grid-cols-1 gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-4">
-        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500 rounded-lg p-8">
+        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500/30 rounded-lg p-8">
           <div className="">
             <AiFillThunderbolt size={40} className="text-green-500 mb-8" />
           </div>
@@ -24,21 +24,21 @@ function PageThree() {
             Upload files at breakneck speeds, <br /> saving you valuable time.
           </p>
         </div>
-        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500 rounded-lg p-8">
+        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500/30 rounded-lg p-8">
           <div><LuLockKeyholeOpen size={40} className="text-green-500 mb-8" /></div>
           <h2 className="text-white font-extrabold text-2xl mb-2">Bank-Level Security</h2>
           <p>
             Your files are protected with state-of- <br /> the-art encryption.
           </p>
         </div>
-        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500 rounded-lg p-8">
+        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500/30 rounded-lg p-8">
           <div><IoMdSync size={40} className="text-green-500 mb-8" /></div>
           <h2 className="text-white font-extrabold text-2xl mb-2">Seamless Sync</h2>
           <p>
             Automatically sync your uploads <br /> across all your devices.
           </p>
         </div>
-        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500 rounded-lg p-8">
+        <div className="flex flex-col items-center justify-center bg-black/50 border border-green-500/30 rounded-lg p-8">
           <div><LuFiles size={40} className="text-green-500 mb-8" /></div>
           <h2 className="text-white font-extrabold text-2xl mb-2">Unlimited Storage</h2>
           <p>

@@ -16,7 +16,7 @@ function PageTwo() {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-8">
-        <div className="flex flex-col items-center py-4 border border-green-500 rounded-lg m-2 p-4">
+        <div className="flex flex-col items-center py-4 border border-green-500/30 rounded-lg m-2 p-4">
           <div>
             <FaTerminal size={40} className="text-green-500" />
           </div>
@@ -25,7 +25,7 @@ function PageTwo() {
             <p>Harness the full potential of command-line efficiency.</p>
           </div>
         </div>
-        <div className="flex flex-col items-center py-4 border border-green-500 rounded-lg m-2 p-4">
+        <div className="flex flex-col items-center py-4 border border-green-500/30 rounded-lg m-2 p-4">
           <div>
           <GoPeople size={40} className="text-green-500" />
           </div>
@@ -35,7 +35,7 @@ function PageTwo() {
             <p>Intuitive interface suitable for both beginners and experts.</p>
           </div>
         </div>
-        <div className="flex flex-col items-center py-4 border border-green-500 rounded-lg m-2 p-4">
+        <div className="flex flex-col items-center py-4 border border-green-500/30 rounded-lg m-2 p-4">
           <div>
           <FiGlobe size={40} className="text-green-500" />
           </div>
