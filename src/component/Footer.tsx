@@ -13,6 +13,11 @@ function Footer() {
             <button>Telegram</button>
         </div>
       </div>
+      <div className="flex justify-center items-center" >
+        <div className=" w-1/2 border-t border-green-500/30 py-2" >
+        created by Vikas(Kreyon) &copy; 2025
+        </div>
+      </div>
     </footer >
   );
 }
